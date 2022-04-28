@@ -1,0 +1,7 @@
+i,i<=maxvalue,return
+1,true,Snap
+2,true,"Snap, 2"
+3,true,"Snap, 2, Snap"
+4,true," Snap, 2, Snap, 4"
+5,true," Snap, 2, Snap, 4, SnapCrackle"
+6,false,"Snap, 2, Snap, 4, SnapCrackle"
