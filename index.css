@@ -1,11 +1,17 @@
-html,body{
+html,
+body {
     background-color: black;
 }
-p{
+
+p {
     font-size: 100px;
     color: wheat;
     display: flex;
     justify-content: center;
     text-align: center;
     margin: auto;
+}
+
+    {
+    dfsfdf
 }
